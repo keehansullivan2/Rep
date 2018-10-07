@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Whos Repp\'n</string>
+    <string name="picture_senate"> Senate\n</string>
+    <string name="zip">Zip Code</string>
+    <string name="button_image">buttonimage</string>
+    <string name="or"> or </string>
+
+    <string name="welcome"> Welcome! To learn about your members of Congress please provide the following:</string>
+    <string name="locbutton"> Use current location </string>
+    <string name="randomloc"> Use random location </string>
+    <color name="grey">#8c8c8c</color>
+
+</resources>
